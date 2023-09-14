@@ -1,0 +1,14 @@
+{
+    "vscode-pets.petColor": "gray",
+    "vscode-pets.petSize": "nano",
+    "vscode-pets.petType": "cat",
+    "vscode-pets.theme": "forest",
+    "vscode-pets.position": "explorer",
+    "powermode.enabled": false,
+    "powermode.presets": "particles",
+    "powermode.combo.location": "statusbar",
+    "powermode.explosions.backgroundMode": "image",
+    "synthwave84.brightness": 1000,
+    "synthwave84.disableGlow": false,
+    "vsicons.presets.nestjs": true
+}
